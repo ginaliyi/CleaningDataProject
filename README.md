@@ -18,6 +18,6 @@ The file 'run_analysis.R' recorded the completed process to clean the data set f
     In order to include more meaningful data for further analyses, I included data source which was labeled as "source" variable to identify whether train data or test data in 'DT'. Therefore, 'DT' was a dataset with 10299 observations and 69 variables from step 1 to step 5
     
     
-Codebook described the variables in the tidy data set 
+Codebook 
 ==========================
-please go the codebook for the details
+Codebook described the variables in the tidy data set. Please go the codebook for the details
