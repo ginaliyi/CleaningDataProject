@@ -1,103 +1,104 @@
-CodeBook ¨C Variables in the tidy data set
+CodeBook â€“ 68 Variables in the tidy data set
 
-Activity	CHAR	
-¡¡6 activity names 
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+"Activity"	CHAR	
+ã€€6 activity names 
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
 
-Subject	Integrate
-¡¡¡¡A group of 30 volunteers within an age bracket of 19-48 years
+"Subject"	Integrate
+ã€€ã€€A group of 30 volunteers within an age bracket of 19-48 years
 
-tBodyAcc-mean()-X	numeric
+"tBodyAcc-mean()-X"	numeric
 	The average time mean of body acceleration perceived at X
 
-tBodyAcc-mean()-Y	numeric
+"tBodyAcc-mean()-Y"	numeric
 	The average time mean of body acceleration perceived at Y
 
-tBodyAcc-mean()-Z	numeric
+"tBodyAcc-mean()-Z"	numeric
 	The average time mean of body acceleration perceived at Z
 
-tBodyAcc-std()-X	numeric
-¡¡¡¡The average time std of body acceleration perceived at X
-¡¡¡¡
-tBodyAcc-std()-Y	numeric
+"tBodyAcc-std()-X"	numeric
+ã€€ã€€The average time std of body acceleration perceived at X
+ã€€ã€€
+"tBodyAcc-std()-Y"	numeric
 	The average time std of body acceleration perceived at Y
 
-tBodyAcc-std()-Z	numeric
+"tBodyAcc-std()-Z"	numeric
 	The average time std of body acceleration perceived at Z
 
-tGravityAcc-mean()-X	numeric
+"tGravityAcc-mean()-X"	numeric
 	The average time mean of gravity acceleration perceived at X
 
-tGravityAcc-mean()-Y	numeric
+"tGravityAcc-mean()-Y"	numeric
 	The average time mean of gravity acceleration perceived at Y
 
-tGravityAcc-mean()-Z	numeric
+"tGravityAcc-mean()-Z"	numeric
 	The average time mean of gravity acceleration perceived at Z
 
-tGravityAcc-std()-X		numeric
+"tGravityAcc-std()-X"	numeric
 	The average time std of gravity acceleration perceived at X
 
-tGravityAcc-std()-Y		numeric
+"tGravityAcc-std()-Y"		numeric
 	The average time std of gravity acceleration perceived at Y
 
-tGravityAcc-std()-Z		numeric
+"tGravityAcc-std()-Z"		numeric
 	The average time std of gravity acceleration perceived at Z
 
-tBodyAccJerk-mean()-X	numeric
+"tBodyAccJerk-mean()-X"		numeric
 	The average time mean of body linear acceleration to perceive Jerk signals at X
 
-tBodyAccJerk-mean()-Y	numeric
-¡¡¡¡The average time mean of body linear acceleration to perceive Jerk signals at Y
-¡¡¡¡
-tBodyAccJerk-mean()-Z	numeric
-¡¡¡¡The average time mean of body linear acceleration to perceive Jerk signals at Z
-¡¡¡¡
-tBodyAccJerk-std()-X	numeric
-¡¡¡¡The average time std of body linear acceleration to perceive Jerk signals at X
-¡¡¡¡
-tBodyAccJerk-std()-Y	numeric
-¡¡¡¡The average time std of body linear acceleration to perceive Jerk signals at Y
-¡¡¡¡
-tBodyAccJerk-std()-Z	numeric
-¡¡¡¡The average time std of body linear acceleration to perceive Jerk signals at Z
-¡¡¡¡
-tBodyGyro-mean()-X		numeric
+"tBodyAccJerk-mean()-Y"		numeric
+ã€€ã€€The average time mean of body linear acceleration to perceive Jerk signals at Y
+ã€€ã€€
+"tBodyAccJerk-mean()-Z"		numeric
+ã€€ã€€The average time mean of body linear acceleration to perceive Jerk signals at Z
+ã€€ã€€
+"tBodyAccJerk-std()-X"	numeric
+ã€€ã€€The average time std of body linear acceleration to perceive Jerk signals at X
+ã€€ã€€
+"tBodyAccJerk-std()-Y"	numeric
+ã€€ã€€The average time std of body linear acceleration to perceive Jerk signals at Y
+ã€€ã€€
+"tBodyAccJerk-std()-Z"	numeric
+ã€€ã€€The average time std of body linear acceleration to perceive Jerk signals at Z
+ã€€ã€€
+"tBodyGyro-mean()-X"		numeric
 	The average time mean of body angular velocity perceived at X
 
-tBodyGyro-mean()-Y		numeric
+"tBodyGyro-mean()-Y"		numeric
 	The average time mean of body angular velocity perceived at Y
-¡¡¡¡
-tBodyGyro-mean()-Z		numeric
-¡¡¡¡The average time mean of body angular velocity perceived at Z
-¡¡¡¡
-tBodyGyro-std()-X		numeric
+ã€€ã€€
+"tBodyGyro-mean()-Z"		numeric
+ã€€ã€€The average time mean of body angular velocity perceived at Z
+ã€€ã€€
+"tBodyGyro-std()-X"		numeric
 	The average time std of body angular velocity perceived at X
-¡¡¡¡
-tBodyGyro-std()-Y		numeric
+ã€€ã€€
+"tBodyGyro-std()-Y"		numeric
 	The average time std of body angular velocity perceived at Y
-tBodyGyro-std()-Z		numeric
+	
+"tBodyGyro-std()-Z"		numeric
 	The average time std of body angular velocity perceived at Z
-¡¡¡¡
-tBodyGyroJerk-mean()-X	numeric
+ã€€ã€€
+"tBodyGyroJerk-mean()-X"	numeric
 	The average time mean of body angular velocity to perceive Jerk signals at X
-¡¡¡¡
-tBodyGyroJerk-mean()-Y	numeric
+ã€€ã€€
+"tBodyGyroJerk-mean()-Y"	numeric
 	The average time mean of body angular velocity to perceive Jerk signals at Y
-¡¡¡¡
-tBodyGyroJerk-mean()-Z	numeric
+ã€€ã€€
+"tBodyGyroJerk-mean()-Z"	numeric
 	The average time mean of body angular velocity to perceive Jerk signals at Z
-¡¡¡¡
-tBodyGyroJerk-std()-X	numeric
+ã€€ã€€
+"tBodyGyroJerk-std()-X"	numeric
 	The average time std of body angular velocity to perceive Jerk signals at X
-¡¡¡¡
+ã€€ã€€
 tBodyGyroJerk-std()-Y	numeric
 	The average time std of body angular velocity to perceive Jerk signals at Y
-¡¡¡¡
+ã€€ã€€
 tBodyGyroJerk-std()-Z	numeric
 	The average time std of body angular velocity to perceive Jerk signals at Z
 
@@ -109,10 +110,10 @@ tBodyAccMag-std()	numeric
 
 tGravityAccMag-mean()	numeric
 	The average time mean of gravity acceleration perceived for magnitude
-¡¡¡¡
+ã€€ã€€
 tGravityAccMag-std()	numeric
 	The average time std of gravity acceleration perceived for magnitude
-¡¡¡¡
+ã€€ã€€
 tBodyAccJerkMag-mean()	numeric
 	The average time mean of body linear acceleration to perceive Jerk signals for magnitude
 
@@ -150,23 +151,23 @@ fBodyAcc-std()-Z	numeric
 	The average frequency std of body acceleration perceived at Z
 
 fBodyAccJerk-mean()-X	numeric
-¡¡¡¡The average frequency mean of body linear acceleration to perceive Jerk signals at X
-¡¡¡¡
+ã€€ã€€The average frequency mean of body linear acceleration to perceive Jerk signals at X
+ã€€ã€€
 fBodyAccJerk-mean()-Y	numeric
-¡¡¡¡The average frequency mean of body linear acceleration to perceive Jerk signals at Y
-¡¡¡¡
+ã€€ã€€The average frequency mean of body linear acceleration to perceive Jerk signals at Y
+ã€€ã€€
 fBodyAccJerk-mean()-Z	numeric
-¡¡¡¡The average frequency mean of body linear acceleration to perceive Jerk signals at Z
-¡¡¡¡
+ã€€ã€€The average frequency mean of body linear acceleration to perceive Jerk signals at Z
+ã€€ã€€
 fBodyAccJerk-std()-X	numeric
-¡¡¡¡The average frequency std of body linear acceleration to perceive Jerk signals at X
-¡¡¡¡
+ã€€ã€€The average frequency std of body linear acceleration to perceive Jerk signals at X
+ã€€ã€€
 fBodyAccJerk-std()-Y	numeric
-¡¡¡¡The average frequency std of body linear acceleration to perceive Jerk signals at Y
-¡¡¡¡
+ã€€ã€€The average frequency std of body linear acceleration to perceive Jerk signals at Y
+ã€€ã€€
 fBodyAccJerk-std()-Z	numeric
-¡¡¡¡The average frequency std of body linear acceleration to perceive Jerk signals at Z
-¡¡¡¡
+ã€€ã€€The average frequency std of body linear acceleration to perceive Jerk signals at Z
+ã€€ã€€
 fBodyGyro-mean()-X 	numeric
 	The average frequency mean of body angular velocity perceived at X
 
@@ -175,13 +176,13 @@ fBodyGyro-mean()-Y 	numeric
 
 fBodyGyro-mean()-Z	numeric
 	The average frequency mean of body angular velocity perceived at Z
-¡¡¡¡
+ã€€ã€€
 fBodyGyro-std()-X	numeric
 	The average frequency std of body angular velocity perceived at X
-¡¡¡¡
+ã€€ã€€
 fBodyGyro-std()-Y	numeric
 	The average frequency std of body angular velocity perceived at Y
-¡¡¡¡
+ã€€ã€€
 fBodyGyro-std()-Z	numeric
 	The average frequency std of body angular velocity perceived at Z
 
@@ -208,4 +209,4 @@ fBodyBodyGyroJerkMag-mean()	numeric
 
 fBodyBodyGyroJerkMag-std ()	numeric
 	The average frequency std of body angular velocity to perceive Jerk signals for magnitude
-¡¡¡¡
+ã€€ã€€
