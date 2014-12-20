@@ -1,4 +1,3 @@
-setpw("C:/Users/IBM_ADMIN/Documents/data clean job")
 
 library(plyr)
 library(data.table)
